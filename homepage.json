@@ -1,17 +1,99 @@
-[{
-  "key": 1,
+[
+{
+  "key": 1, 
+  "titleName": "We haven’t slowed down",
+  "description": "In the midst of this global event, Alma Mater is not slowing down, if anything, we’re making more progess than ever before. We’re working hard to build a better alumni network.",
+  "source": "https://static1.squarespace.com/static/5b396364fcf7fd1530034fe0/t/5c3f88a188251bfded4abacf/1582674113534/",
+  "name": "Neill Frazier",
+  "userImage": "https://images.squarespace-cdn.com/content/v1/5b396364fcf7fd1530034fe0/1548099966754-LZ4BC0Q4GP8QD4Y44G7L/ke17ZwdGBToddI8pDm48kFCFbP81JtqKBh1UsZBXJjV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua5wdf0iByc9d9W6TDOR_RHcueaV1KFg9pQveAaFLNud91O1jWXa51CUH-f19qEr9w/IMG_3248.jpg"
+}, 
+{
+  "key": 2,
   "titleName": "A look back on the 2019 BROOKES | Rowing Season",
   "description": "Here is an extensive video highlighting our achievements from 2019",
   "source": "https://www.brookes.ac.uk/uploadedImages/Main_Site/Fixed_pages/About_Brookes/NewsImport/Boat-Race-fixture-800x450(1).jpg",
   "name": "Brookes Men’s Rowing",
-  "userImage": "",
+  "userImage": "http://brookesrowing.org.uk/obubc-cms/wp-content/uploads/2015/07/OB-logo.png",
+  "link": "https://www.youtube.com/watch?v=fBxotT3Jy2k"
+},
+{
+  "key":3,
+  "titleName": "U.S. Canada approve economic stimulus",
+  "description": "Canada has almost doubled the value of an aid package to help people and businesses deal with losses from the coronavirus outbreak, with Ottawa handing out more money than forecast, Finance Minister Bill Morneau said on Wednesday.",
+  "source": "https://www.reuters.com/article/us-health-ccoronavirus-canada/canada-doubles-value-of-coronavirus-stimulus-package-promises-cash-loan-delays-idUSKBN21C1QO",
+  "name": "Alma Mater",
+  "userImage": "https://images.squarespace-cdn.com/content/v1/5b396364fcf7fd1530034fe0/1548099966754-LZ4BC0Q4GP8QD4Y44G7L/ke17ZwdGBToddI8pDm48kFCFbP81JtqKBh1UsZBXJjV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua5wdf0iByc9d9W6TDOR_RHcueaV1KFg9pQveAaFLNud91O1jWXa51CUH-f19qEr9w/IMG_3248.jpg",
+  "link":  "https://www.reuters.com/article/us-health-ccoronavirus-canada/canada-doubles-value-of-coronavirus-stimulus-package-promises-cash-loan-delays-idUSKBN21C1QO"
+},
+{
+  "key": 4,
+  "titleName": "Our graduating seniors",
+  "description": "We want to take some time to appreciate our graduating seniors whose season was unfortunately cut short. First up, our Team President Ray Rady. Congrats on a great career! We will miss you!",
+  "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3-SW2FIaB-1qn9D4DrEwij4fe2-Iqh7egH4ZSHwBeViXzXs0d",
+  "name": "Virginia Tech Roller Hockey",
+  "userImage": "https://pbs.twimg.com/profile_images/1094825810295513090/BNwvNX_R_400x400.jpg"
+},
+{
+  "key": 5,
+  "titleName": "You are not absolutely invulnerable!",
+  "description": "Trevor Noah brought in the expert for Thursday’s Daily Social Distancing Show: Dr Anthony Fauci, the coronavirus era’s unlikely media star and voice of reason.",
+  "source": "https://i.guim.co.uk/img/media/d0070cc6a01cc2529783573c4add7a9b503437da/117_0_1575_946/master/1575.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=d896e79f5d99d3a6a7b4c3fc47425eb1",
+  "name": "Alma Mater",
+  "userImage": "https://images.squarespace-cdn.com/content/v1/5b396364fcf7fd1530034fe0/1548099966754-LZ4BC0Q4GP8QD4Y44G7L/ke17ZwdGBToddI8pDm48kFCFbP81JtqKBh1UsZBXJjV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua5wdf0iByc9d9W6TDOR_RHcueaV1KFg9pQveAaFLNud91O1jWXa51CUH-f19qEr9w/IMG_3248.jpg",
+  "link": "https://www.theguardian.com/culture/2020/mar/27/trevor-noah-fauci-interview-coronavirus-daily-show-recap"
+},
+{
+  "key": 6,
+  "titleName": "Early spring match results!",
+  "description": "2nd place in Savannah’s St. Patrick’s 15’s!",
+  "source": "https://static.wixstatic.com/media/e9135e_a3ab1c9676d64dc48ac6fc5b8fb224ff~mv2_d_4898_3265_s_4_2.jpg/v1/fill/w_1893,h_1262,al_c,q_90,usm_0.66_1.00_0.01/e9135e_a3ab1c9676d64dc48ac6fc5b8fb224ff~mv2_d_4898_3265_s_4_2.jpg",
+  "name": "Georgia Tech Rugby",
+  "userImage": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092016/untitled-2_18.jpg?itok=SZJj7Hq5",
   "link": ""
-}, {
-  "key": 2,
+},
+{
+  "key": 7,
+  "titleName": "Today’ Co-Anchor Hoda Kotb Breaks Down",
+  "description": "Kotb noted how the city had the largest surge in coronavirus cases in the country, and that Brees stepped in to help. The increase in cases is being attributed by some to last month’s Mardi Gras celebrations.",
+  "source": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2020%2F01%2Fdrew-brees.jpg",
+  "name": "Alma Mater",
+  "userImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2020%2F01%2Fdrew-brees.jpg",
+  "link": "https://www.yahoo.com/entertainment/today-co-anchor-hoda-kotb-144744342.html"
+},
+{
+  "key": 8,
   "titleName": "Duck Pond #OtterSandman",
   "description": "The update you don’t need and didn’t really ask for: Yes, #OtterSandman still lives in the Duck pond. Like this is you care and also if you don’t care but can still appreciate a good sunset",
   "source": "https://i.pinimg.com/originals/18/97/59/189759b90bee494d406394dbc8a4254e.jpg",
   "name": "Virginia Tech",
   "userImage": "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/_jcr_content/content/adaptiveimage.transform/m-medium/image.jpg",
   "link": ""
-}]
+},
+{
+  "key": 9,
+  "titleName": "Stocks Have Best Week Since 1938",
+  "description": "The stock market closed lower on Friday, cutting into some of its gains from the previous three days in yet another volatile week of trading—but Wall Street also cheered the news that Congress had passed the largest stimulus bill in American history to stem the economic fallout from coronavirus.",
+  "source": "https://specials-images.forbesimg.com/imageserve/1d38558ec6324519adb66188ecacde57/960x0.jpg?fit=scale",
+  "name": "Alma Mater",
+  "userImage": "https://images.squarespace-cdn.com/content/v1/5b396364fcf7fd1530034fe0/1548099966754-LZ4BC0Q4GP8QD4Y44G7L/ke17ZwdGBToddI8pDm48kFCFbP81JtqKBh1UsZBXJjV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua5wdf0iByc9d9W6TDOR_RHcueaV1KFg9pQveAaFLNud91O1jWXa51CUH-f19qEr9w/IMG_3248.jpg",
+  "link": "https://www.forbes.com/sites/sergeiklebnikov/2020/03/27/stocks-have-best-week-since-1938-after-trump-signs-2-trillion-coronavirus-stimulus-bill/#401129a55ae4",
+},
+{
+  "key": 10,
+  "titleName": "YouTube channel offers virtual rides",
+  "description": "Coronavirus may have shuttered theme parks, but technology has stepped in to make sure that quarantined Americans still have a way to experience their favorite rides. A YouTube channel is bringing Disney World, Disney Land and Universal Studios rides to people's homes with virtual reality — for free.",
+  "source": "https://img.cinemablend.com/filter:scale/quill/5/e/a/7/c/b/5ea7cbf6751420928ae91e951f0d6bb59d1774d1.jpg?fw=1200",
+  "name": "Alma Mater",
+  "userImage": "https://images.squarespace-cdn.com/content/v1/5b396364fcf7fd1530034fe0/1548099966754-LZ4BC0Q4GP8QD4Y44G7L/ke17ZwdGBToddI8pDm48kFCFbP81JtqKBh1UsZBXJjV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua5wdf0iByc9d9W6TDOR_RHcueaV1KFg9pQveAaFLNud91O1jWXa51CUH-f19qEr9w/IMG_3248.jpg",
+  "link": "https://www.cbsnews.com/news/youtube-channel-offers-virtual-rides-on-major-disney-universal-studios-attractions/"
+},
+{
+  "key": 11,
+  "tilteName": "Mavericks owner on COVID-19",
+  "description": "Mark Cuban shares his thoughts with ESPN",
+  "source": "https://i.ytimg.com/vi/vUB5DST4z-E/maxresdefault.jpg",
+  "name": "ESPN",
+  "userImage": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir.png",
+  "link": "https://www.thedenverchannel.com/news/national/coronavirus/mark-cuban-says-he-plans-to-set-up-a-program-to-pay-dallas-arena-workers-furloughed-by-covid-19"
+}
+]
