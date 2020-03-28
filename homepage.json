@@ -2,16 +2,16 @@
   key: 1,
   titleName: 'Ladies & Templemen - A look back on the 2019 BROOKES | Rowing Season',
   description: 'Here is an extensive video highlighting our achievements from 2019',
-  Source: 'https://www.brookes.ac.uk/uploadedImages/Main_Site/Fixed_pages/About_Brookes/NewsImport/Boat-Race-fixture-800x450(1).jpg',
-  Name: 'Brookes Men’s Rowing',
+  source: 'https://www.brookes.ac.uk/uploadedImages/Main_Site/Fixed_pages/About_Brookes/NewsImport/Boat-Race-fixture-800x450(1).jpg',
+  name: 'Brookes Men’s Rowing',
   userImage: '',
   link: ''
 }, {
   key: 2,
   titleName: 'Duck Pond #OtterSandman',
-  Description: 'The update you don’t need and didn’t really ask for: Yes, #OtterSandman still lives in the Duck pond. Like this is you care and also if you don’t care but can still appreciate a good sunset',
-  Source: 'https://i.pinimg.com/originals/18/97/59/189759b90bee494d406394dbc8a4254e.jpg',
-  Name: 'Virginia Tech',
+  description: 'The update you don’t need and didn’t really ask for: Yes, #OtterSandman still lives in the Duck pond. Like this is you care and also if you don’t care but can still appreciate a good sunset',
+  source: 'https://i.pinimg.com/originals/18/97/59/189759b90bee494d406394dbc8a4254e.jpg',
+  name: 'Virginia Tech',
   userImage: 'https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/_jcr_content/content/adaptiveimage.transform/m-medium/image.jpg',
   link: ''
 }]
